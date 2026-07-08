@@ -1,0 +1,12 @@
+{
+  "project": "ProofBoard",
+  "contract": "ProofBoard",
+  "network": "Bohr / BOT Chain Testnet",
+  "chainId": 968,
+  "deployer": "0xc40CF80456DA95eC144384365333d14B2537de6E",
+  "address": "0xb8F5E9902136170aD1f5960b9e33F45972AcDa90",
+  "transactionHash": "0xba3ca4b74f3baf333bc635c7de54966e75f792ee02b684c71a6d4da2257ad43b",
+  "explorerAddress": "https://scan.bohr.life/address/0xb8F5E9902136170aD1f5960b9e33F45972AcDa90",
+  "explorerTransaction": "https://scan.bohr.life/tx/0xba3ca4b74f3baf333bc635c7de54966e75f792ee02b684c71a6d4da2257ad43b",
+  "deployedAt": "2026-07-07T21:21:38.641Z"
+}

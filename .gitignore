@@ -1,0 +1,10 @@
+node_modules/
+dist/
+artifacts/
+cache/
+logs/
+.env
+.env.local
+secrets/
+*.private.json
+build.log
